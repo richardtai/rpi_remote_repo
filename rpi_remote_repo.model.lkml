@@ -1,5 +1,5 @@
 connection: "thelook"
-# asdf test
+
 # include all the views
 include: "*.view"
 include: "test_folder/*.view"
